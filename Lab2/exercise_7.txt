@@ -1,0 +1,5 @@
+(4.217163327150047,       converged: True
+           flag: 'converged'
+ function_calls: 33
+     iterations: 31
+           root: 4.217163327150047)
